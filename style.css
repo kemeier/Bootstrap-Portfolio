@@ -52,6 +52,7 @@
     border-top: solid 5px #4aaaa5;
     min-width: 1024px;
     width: 100%;
+    padding: 0%;
 }
 
 #kelly-pic  {
@@ -66,6 +67,16 @@ h3{
     font-size: 40px;
 }
 
+.card-text  {
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-link {
+    color: rgb(221, 15, 221);
+    font-weight: bold;
+    text-decoration: underline;
+}
 
 
 @media screen and (max-width: 1024px){
